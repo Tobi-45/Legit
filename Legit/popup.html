@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Scanner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 250px;
+            text-align: center;
+            padding: 10px;
+        }
+        .status {
+            font-size: 18px;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .safe { background-color: #d4edda; color: #155724; }
+        .danger { background-color: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <h2>Email Scanner</h2>
+    <p id="status-text">Scanning email...</p>
+    <div id="status-box" class="status"></div>
+    <script src="popup.js"></script>
+</body>
+</html>
