@@ -16,4 +16,4 @@
 
 ## 🛠 Installation  
 1. Clone this repository:  
-  https://github.com/Tobi-45/Legit.git[https://github.com/Tobi-45/Legit.git]
+  `https://github.com/Tobi-45/Legit.git`
