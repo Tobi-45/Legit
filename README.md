@@ -18,7 +18,7 @@
 This file contains all the code for our Browser extension, you can simply add this as an extension in your browser & use it
 
 ## Server File
-This file contains the backend server running a (AI) [https://huggingface.co/r3ddkahili/final-complete-malicious-url-model] which tells you whether the email is safe or malicious.
+This file contains the backend server running a (AI) {https://huggingface.co/r3ddkahili/final-complete-malicious-url-model} which tells you whether the email is safe or malicious.
 
 1. Add the legit file to your Browser as an extension
 2. Start the backend server
